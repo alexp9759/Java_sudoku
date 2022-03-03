@@ -1,4 +1,4 @@
 # simple_sudoku
-simple java Sudoku application
+java Sudoku application
 
-Simple desktop sudoku application using javafx and java. 
+desktop sudoku application using javafx and java. 
